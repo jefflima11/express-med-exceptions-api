@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-oracledb": "^1.0.2",
+    "oracledb": "^6.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
